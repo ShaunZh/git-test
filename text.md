@@ -5,3 +5,5 @@ feature-1: modify2
 feature-2: modify3
 
 master: modify2
+
+text git reset --mix

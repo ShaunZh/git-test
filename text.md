@@ -7,3 +7,5 @@ feature-2: modify3
 master: modify2
 
 text git reset --mix
+
+text git reset --hard
